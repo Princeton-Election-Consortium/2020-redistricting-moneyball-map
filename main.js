@@ -221,11 +221,11 @@ map.on('load', function() {
                 ],
                 "hsla(232, 82%, 69%, .8)",
                 [
-                  "<",
+                  ">=",
                   ["feature-state", "redistricting_voter_power"],
                   7
                 ],
-                "hsla(0, 0%, 100%, .7)",
+                "hsla(193, 82%, 74%, .7)",
                 // ['all', [">=", ["get", "VOTER_POWER"], 7], ["==", ["get", "POSTAL"], "NC"]],
                 // "hsla(193, 82%, 74%, 0.75)",
                 "hsla(0, 0%, 100%, 0)"
